@@ -25,6 +25,7 @@ Explore the interactive dashboard here:
 - `spotify_cleaned.csv` — Cleaned Spotify dataset CSV
 - `Spotify_Music_Trends_Exploration.ipynb` — Python notebook with analysis and visualizations
 - `spotify_sql_analysis.sql` — SQL queries used for data exploration
+- `screenshots/tableau_dashboard.png` — Screenshot of Tableau dashboard
 
 ## License
 This project is licensed under the MIT License.
